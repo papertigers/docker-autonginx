@@ -1,0 +1,3 @@
+[submodule "proxy-watcher"]
+	path = proxy-watcher
+	url = git@github.com:papertigers/node-proxy-watcher.git
